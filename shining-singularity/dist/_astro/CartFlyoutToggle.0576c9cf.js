@@ -1,0 +1,1 @@
+import{u as r}from"./index.03133d7f.js";import{o as e,i as t}from"./jsxRuntime.module.a99dcbf8.js";import"./hooks.module.9724146a.js";import"./preact.module.d85daf38.js";function p(){const o=r(t);return e("button",{onClick:()=>t.set(!o),children:"Cart"})}export{p as default};
